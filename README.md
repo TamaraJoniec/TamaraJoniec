@@ -33,5 +33,5 @@ I'm a passionate and dedicated developer with a focus on front-end technologies.
 - I'm a foodie 🍲
 
 ## 🌟 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TamaraJoniec&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TamaraJoniec&layout=compact&theme=tokyonight)
