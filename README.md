@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi there 👋 I'm Tamara!
 
-<!--
-**TamaraJoniec/TamaraJoniec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and dedicated developer with a focus on front-end technologies. I love to explore new technologies and leverage them to solve real-world problems. Here's a list of technologies I'm currently working with.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxtdotjs)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-dot-js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+
+## 💼 Where I am currently working at/on
+- 🌐 Enhancing the user experience for [my website](https://tamarajoniec.github.io/React-Portfolio/)
+- 🛠 Working on several freelance projects, transforming client ideas into digital reality!
+- 🌟 Internship at Meeow, focusing on developing robust and scalable applications using Vue.js and Tailwind CSS.
+
+
+## 📫 How to reach me
+- Let's connect on [linkedin.com/in/tamara-joniec](linkedin.com/in/tamara-joniec) (Add your LinkedIn profile link here)
+- Drop me a mail at ![Email me](mailto:tjoniec@designrise.co.uk)
+
+## ⚡ Fun facts
+- I'm a fitness enthusiast 🏋️‍♂️
+- I love to explore new places 🌍
+- I'm a foodie 🍲
+
+## 🌟 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
