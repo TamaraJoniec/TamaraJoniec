@@ -25,7 +25,7 @@ I'm a passionate and dedicated developer with a focus on front-end technologies.
 
 ## 📫 How to reach me
 - Let's connect on [linkedin.com/in/tamara-joniec](linkedin.com/in/tamara-joniec)
-- Drop me a mail at ![tjoniec@designrise.co.uk](mailto:tjoniec@designrise.co.uk)
+- Drop me a mail at tjoniec@designrise.co.uk (mailto:tjoniec@designrise.co.uk)
 
 ## ⚡ Fun facts
 - I'm a fitness enthusiast 🏋️‍♂️
