@@ -20,7 +20,7 @@ I'm a passionate and dedicated developer with a focus on front-end technologies.
 ## 💼 Where I am currently working at/on
 - 🌐 Enhancing the user experience for [my website](https://tamarajoniec.github.io/React-Portfolio/)
 - 🛠 Working on several freelance projects, transforming client ideas into digital reality!
-- 🌟 Internship at Meeow, focusing on developing robust and scalable applications using Vue.js and Tailwind CSS.
+- 🌟 Internship at [Meeow](https://www.meeow.com/), focusing on developing robust and scalable applications using Vue.js and Tailwind CSS.
 
 
 ## 📫 How to reach me
