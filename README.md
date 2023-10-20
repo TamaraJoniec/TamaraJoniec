@@ -18,7 +18,7 @@ I'm a passionate and dedicated developer with a focus on front-end technologies.
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 
 ## 💼 Where I am currently working at/on
-- 🌐 Enhancing the user experience for [my website](https://tamarajoniec.github.io/React-Portfolio/)
+- 🌐 Enhancing the user experience for [my website](https://tamarajoniec-portfolio.netlify.app/)
 - 🛠 Working on several freelance projects, transforming client ideas into digital reality!
 - 🌟 Internship at [Meeow](https://www.meeow.com/), focusing on developing robust and scalable applications using Vue.js and Tailwind CSS.
 
