@@ -6,6 +6,7 @@ I'm a passionate and dedicated developer with a focus on front-end technologies.
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxtdotjs)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-dot-js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,16 +17,18 @@ I'm a passionate and dedicated developer with a focus on front-end technologies.
 
 ## 🌱 I’m currently learning
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![Twig](https://img.shields.io/badge/-Twig-339933?style=flat&logo=twig&logoColor=white)
+![Drupal](https://img.shields.io/badge/-Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
 
 ## 💼 Where I am currently working at/on
 - 🌐 Enhancing the user experience for [my website](https://tamarajoniec-portfolio.netlify.app/)
-- 🛠 Working on several freelance projects, transforming client ideas into digital reality!
-- 🌟 Internship at [Meeow](https://www.meeow.com/), focusing on developing robust and scalable applications using Vue.js and Tailwind CSS.
+- 🛠 Vonluteering on a charity project, helping rescue pets find happy homes!
+- 🌟 Junior Frontend Developer at [Numiko](https://www.numiko.com/), focusing on developing robust and scalable applications using Twig, Drupal, Javascript, Vue.js and Tailwind CSS.
 
 
 ## 📫 How to reach me
 - Let's connect on [linkedin.com/in/tamara-joniec](linkedin.com/in/tamara-joniec)
-- Drop me a mail at tjoniec@designrise.co.uk
+- Drop me a mail at tamara.joniec@gmail.com
 ## ⚡ Fun facts
 - I'm a fitness enthusiast 🏋️‍♂️
 - I love to explore new places 🌍
