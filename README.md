@@ -3,17 +3,16 @@
 I'm a passionate and dedicated developer with a focus on front-end technologies. I love to explore new technologies and leverage them to solve real-world problems. Here's a list of technologies I'm currently working with.
 
 ## 🛠️ Technologies & Tools
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxtdotjs)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-dot-js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CF649A?style=flat&logo=sass&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxtdotjs)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-dot-js)
 
 ## 🌱 I’m currently learning
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
